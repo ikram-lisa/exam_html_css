@@ -1,0 +1,17 @@
+darkbrown : #7f7770
+lightbrown : #deb37e
+white : #ffffff
+grey : #54524f
+
+home - about - service - experience
+
+Take hiking
+This is a subtitle
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do iusmod tempor incididunt ut labore et dolore magna. 
+
+Read more
+
+www.yoursite.com
+
+@yourname
